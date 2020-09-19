@@ -34,12 +34,18 @@ color: white;
 text-align: center;
 height: 240px;
 }
+.row{
+  columns: 3;
+  text-align: center;
+}
 .about{
   text-align: center;
 }
+#story1, #story2, #story3{
+  display: none;
+}
 .portfolio{
   text-align: center;
-
 }
 #portfolio{
   text-align: center;
@@ -91,7 +97,4 @@ height: 240px;
 #email, #message, #name{
   background: transparent;
   color: white;
-}
-#work4{
-  width: 20px;
 }
