@@ -32,6 +32,7 @@ padding-bottom: 20px;
 background-position: center;
 color: white;
 text-align: center;
+height: 240px;
 }
 .about{
   text-align: center;
@@ -40,9 +41,57 @@ text-align: center;
   text-align: center;
 
 }
+#portfolio{
+  text-align: center;
+}
 .contacts{
   background-image: url(../images/c_image.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+  text-align: center;
+  background-blend-mode: multiply;
+
+}
+.socials{
+  text-align: center;
+ margin-left: 5%;
+ margin-right: 5%;
+ margin-top: 2%;
+}
+#copy{
+  text-align: center;
+  color: maroon;
+}
+.container{
+  background-color: white;
+  font-family: serif;
+  font-size: 15px;
+}
+
+#abouts{
+  text-align: center;
+}
+#contact{
+  text-align: center;
+  color: white;
+}
+.contact{
+  column-count: ;
+}
+#message{
+  max-width: 60%;
+  margin-left: 21.5%;
+  margin-right: 23%;
+}
+#button{
+  margin-top: 5%;
+  margin-bottom: 2%;
+}
+#email, #message, #name{
+  background: transparent;
+  color: white;
+}
+#work4{
+  width: 20px;
 }
