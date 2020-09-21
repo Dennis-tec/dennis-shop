@@ -102,3 +102,14 @@ height: 240px;
 .work1{
 background: transparent;
 }
+@media only screen and (max-width: 768px) {
+width: 100%;
+height:
+}
+
+#work1, #work2, #work3, #work4, #work5, #work6, #work7, #work8{
+  cursor: pointer;
+}
+body:hover-image{
+  color: blue;
+}
