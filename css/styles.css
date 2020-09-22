@@ -70,10 +70,10 @@ height: 240px;
   text-align: center;
   color: maroon;
 }
-.contain{
+.body{
   background-color: white;
-  font-family: serif;
   font-size: 15px;
+  font-family: serif;
 }
 
 #abouts{
